@@ -1,7 +1,7 @@
-CRUD MOVIEs
+CRUD MOVIES
 
 
--Java
--spring
--MVC  model view controller
--MongoDB
+-Java</br>
+-springBot</br>
+-MVC  model view controller</br>
+-MongoDB </br>
